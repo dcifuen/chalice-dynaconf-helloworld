@@ -3,7 +3,7 @@
   "app_name": "chalice-dynaconf-helloworld",
   "environment_variables": {
     "APP_NAME": "APP_NAME coming from env vars",
-    "SETTINGS_FILE_FOR_DYNACONF": "chalicelib/settings.yaml"
+    "SETTINGS_FILE_FOR_DYNACONF": "chalicelib/settings.yml"
   },
   "stages": {
     "dev": {

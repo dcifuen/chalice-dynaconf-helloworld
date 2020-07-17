@@ -1,1 +1,3 @@
-APP_NAME: "APP_NAME coming from YAML"
+---
+default:
+  APP_NAME: "APP_NAME coming from YAML"
